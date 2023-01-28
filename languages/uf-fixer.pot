@@ -1,0 +1,144 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fixer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-23 10:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-4.9.22\n"
+"X-Domain: uf-fixer"
+
+#: comments.php:42 comments.php:63
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Name of the template
+msgid "About Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Cases Page template"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "Contact Us Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Coverage Area Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Dienstleistungen Inner Page template"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ein flaches und lebendiges Geschäftsthema, um Ihre Dienstleistungen zu "
+"verkaufen und sich von der Masse abzuheben. Fixer ist groß, mutig und will "
+"gesehen werden."
+msgstr ""
+
+#. Name of the theme
+msgid "Fixer"
+msgstr ""
+
+#. Name of the template
+msgid "Get Quote Inner Page template"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://n3rds.work/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://n3rds.work/project/fixer/"
+msgstr ""
+
+#. Name of the template
+msgid "Mpcart Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Mpcheckout Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Mporderstatus Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Mpproducts Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Mpstore Page template"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the template
+msgid "Privacy Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Service Brick Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Service Elektrik Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Service Fence Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Service Plumb Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Service Roof Inner Page template"
+msgstr ""
+
+#. Name of the template
+msgid "Service Fenster Inner Page template"
+msgstr ""
+
+#: comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Author of the theme
+msgid "WMS N@W"
+msgstr ""
